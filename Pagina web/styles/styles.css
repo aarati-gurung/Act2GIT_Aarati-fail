@@ -1,0 +1,20 @@
+h1{
+    color: green;
+}
+.opcion{
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    height: 7vh;
+}
+.cont{
+    height: 200px;
+}
+footer{
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 7vh;
+    font-size: large;
+}
